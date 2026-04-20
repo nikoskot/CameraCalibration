@@ -1,0 +1,7 @@
+imagesFolder: .\calibrationImages
+liveCapture: False
+imagesGroup: right
+patternRowCorners: 9
+patternColumnCorners: 6
+dontRefineCorners: False
+resultsSavePath: .\monocularCalibrationResults

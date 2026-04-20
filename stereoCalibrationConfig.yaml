@@ -1,0 +1,7 @@
+imagesFolder: .\calibrationImages
+liveCapture: False
+patternRowCorners: 9
+patternColumnCorners: 6
+patternGridSize: 25
+dontRefineCorners: False
+resultsSavePath: .\stereoCalibrationResults
