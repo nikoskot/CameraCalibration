@@ -1,2 +1,3 @@
 monocularCalibrationResults/*
 stereoCalibrationResults/*
+*.html
